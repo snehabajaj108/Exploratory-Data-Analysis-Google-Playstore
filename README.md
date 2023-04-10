@@ -1,6 +1,7 @@
 # Exploratory Data Analysis-Google Playstore
 
 View the project on Jovian: https://jovian.com/snehabajaj108/google-playstore-eda
+
 View the project on Kaggle: https://www.kaggle.com/code/snehagilada/google-playstore-eda/notebook
 
 The goal of this project is to analyse and visualise the Google Playstore dataset from Kaggle using Python (Matplotlib, seaborn and plotly). The project involves the following steps:
